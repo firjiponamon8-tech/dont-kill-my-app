@@ -1,4 +1,4 @@
----
+---infinix not 
 manufacturer:
     - general
 ---
